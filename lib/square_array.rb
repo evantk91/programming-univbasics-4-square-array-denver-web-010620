@@ -6,4 +6,6 @@ def square_array(array)
     newArr << (num * num)
     i += 1
   end
+  
+  return newArr
 end
